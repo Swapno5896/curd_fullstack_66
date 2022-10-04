@@ -1,0 +1,7 @@
+66.2
+1.npm init -y
+2.npm i express cors mongodb dotenv 
+// cors : we are going to communicate from diffenent port 
+3."scripts": {
+    "start":"node index.js",
+    "start-dev":"nodemon index.js",
